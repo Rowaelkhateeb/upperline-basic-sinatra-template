@@ -1,5 +1,7 @@
 To run this application in Cloud 9, you'll need to run through a series of commands:
 
+HI!!!!
+
 Set up your environment the first time through:
 gem install bundler
 bundle install
